@@ -1,6 +1,9 @@
 public class ToStartJenkin {
   public static void main(String[] args) {
-    int myNum = 15;
-    System.out.println(myNum);
+   System.out.println("Water");
+    System.out.println("Fire");
+    System.out.println("land");
+    System.out.println("sky");
+    System.out.println("Air");
   }
 }
